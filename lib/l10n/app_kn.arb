@@ -1,0 +1,25 @@
+{
+  "@@locale": "kn",
+
+  "appName": "ಅಗ್ರಿಮಾರ್ಕೆಟ್ ಇಂಡಿಯಾ",
+  "home": "ಮುಖಪುಟ",
+  "weather": "ಹವಾಮಾನ",
+  "marketPrices": "ಮಾರುಕಟ್ಟೆ ಬೆಲೆಗಳು",
+  "cropInfo": "ಬೆಳೆ ಮಾಹಿತಿ",
+  "cropRecommendation": "ಬೆಳೆ ಶಿಫಾರಸು",
+  "diseaseDetection": "ರೋಗ ಪತ್ತೆ",
+  "news": "ಕೃಷಿ ಸುದ್ದಿ",
+  "governmentSchemes": "ಸರ್ಕಾರಿ ಯೋಜನೆಗಳು",
+  "profile": "ಪ್ರೊಫೈಲ್",
+  "aiAssistant": "ಎಐ ರೈತ ಸಹಾಯಕ",
+  "settings": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+  "language": "ಭಾಷೆ",
+  "selectLanguage": "ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+  "recommendCrop": "ಬೆಳೆ ಶಿಫಾರಸು ಮಾಡಿ",
+  "detectDisease": "ರೋಗ ಪತ್ತೆ ಮಾಡಿ",
+  "temperature": "ತಾಪಮಾನ",
+  "humidity": "ಆರ್ದ್ರತೆ",
+  "rainfall": "ಮಳೆ ಪ್ರಮಾಣ",
+  "soilType": "ಮಣ್ಣಿನ ವಿಧ",
+  "state": "ರಾಜ್ಯ"
+}

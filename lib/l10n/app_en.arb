@@ -1,0 +1,25 @@
+{
+  "@@locale": "en",
+
+  "appName": "AgriMarket India",
+  "home": "Home",
+  "weather": "Weather",
+  "marketPrices": "Market Prices",
+  "cropInfo": "Crop Information",
+  "cropRecommendation": "Crop Recommendation",
+  "diseaseDetection": "Disease Detection",
+  "news": "Agriculture News",
+  "governmentSchemes": "Government Schemes",
+  "profile": "Profile",
+  "aiAssistant": "AI Farmer Assistant",
+  "settings": "Settings",
+  "language": "Language",
+  "selectLanguage": "Select Language",
+  "recommendCrop": "Recommend Crop",
+  "detectDisease": "Detect Disease",
+  "temperature": "Temperature",
+  "humidity": "Humidity",
+  "rainfall": "Rainfall",
+  "soilType": "Soil Type",
+  "state": "State"
+}
